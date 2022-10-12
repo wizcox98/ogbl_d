@@ -1,6 +1,6 @@
 # ogbl_d
 
-##Requirements
+## Requirements
     ```
     Python==3.7
     Pytorch==1.8.1+cu101
@@ -11,12 +11,12 @@
     torch-sparse==0.6.12
     ogb==1.3.4
     ```
-##Reproduce
+## Reproduce
     ```
     sh ddi.sh
     ```
 
-##Performance
+## Performance
 
 |  Model   | Test Hits@20 (%) | Validation Hits@20 (%) |
 |  ----  | ----  | ----  |
@@ -25,6 +25,6 @@
 | GIDN@YITU | 95.42±0.00 | 82.58±0.00 |
 
 
-##Reference
+## Reference
 - https://ogb.stanford.edu/
 - https://github.com/skepsun/Adaptive-Graph-Diffusion-Networks/
