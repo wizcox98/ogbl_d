@@ -1,20 +1,21 @@
 # ogbl_d
 
 ## Requirements
-    ```
-    Python==3.7
-    Pytorch==1.8.1+cu101
-    dgl-cu101==0.8.1
-    torch-cluster==1.5.9
-    torch-geometric==2.0.1
-    torch-scatter==2.0.6
-    torch-sparse==0.6.12
-    ogb==1.3.4
-    ```
+```
+Python==3.7
+Pytorch==1.8.1+cu101
+dgl-cu101==0.8.1
+torch-cluster==1.5.9
+torch-geometric==2.0.1
+torch-scatter==2.0.6
+torch-sparse==0.6.12
+ogb==1.3.4
+```
+
 ## Reproduce
-    ```
-    sh ddi.sh
-    ```
+```
+sh ddi.sh
+```
 
 ## Performance
 
